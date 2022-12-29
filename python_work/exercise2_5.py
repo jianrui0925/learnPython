@@ -1,0 +1,1 @@
+print("I said \"This is a exercise!\"")
